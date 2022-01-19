@@ -7,9 +7,11 @@
 [여행지 추천 사이트](https://github.com/gwangju-ai-TRAIVEL-team/traivel_recommendation)
 
 ### Activity
-광주 인공지능사관학교 1기 수료
+
+광주 인공지능사관학교 1기 수료</br>
 
 ##### 동아리
-SAI-A Team CV팀 1학기
-SAI-A Team ML팀 1학기
+
+SAI-A Team CV팀 1학기</br>
+SAI-A Team ML팀 1학기</br>
 컴공선배 UMC Android 파트
