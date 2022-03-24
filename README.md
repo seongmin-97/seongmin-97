@@ -5,6 +5,7 @@
 ### Project
 [영화 리뷰 감성 예측과 이를 통한 영화 추천 앱](https://github.com/seongmin-97/NLP_androidApp) </br>
 [여행지 추천 사이트](https://github.com/gwangju-ai-TRAIVEL-team/traivel_recommendation) </br>
+[영화 추천 앱](https://play.google.com/store/apps/details?id=com.corn.cornfarmer_android) </br>
 
 ### Activity
 
